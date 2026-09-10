@@ -1,0 +1,1031 @@
+{
+  "category": {
+    "fullMatch": false,
+    "id": 65057,
+    "title": "Завтраки",
+    "wasPredicted": false
+  },
+  "containerConfig": {
+    "media": {
+      "backgroundColor": "#FFF5F5F5",
+      "cornerRadius": 12
+    }
+  },
+  "correctedTerm": null,
+  "fastCategories": [],
+  "fastCategoriesExtended": [
+    {
+      "id": 107920,
+      "title": "Кофе"
+    },
+    {
+      "id": 65097,
+      "title": "Блины и оладьи"
+    },
+    {
+      "id": 113942,
+      "title": "Смузи"
+    },
+    {
+      "id": 114388,
+      "title": "Наши бренды"
+    }
+  ],
+  "items": [
+    {
+      "badges": [
+        {
+          "backgroundColor": "#FF5858",
+          "text": "Финальная цена",
+          "textColor": "#FFFFFF"
+        }
+      ],
+      "catalogType": "3",
+      "gallery": [
+        {
+          "type": "IMAGE",
+          "url": "https://images-foodtech.magnit.ru/ijpkTT6Ujbi2bkAJRQtGkrMAO6QB2r_1sV5MQrUXVvk/rs:fit:416:416/plain/s3://img-dostavka/catalog/pim/goods/1000322391/image/cb8defff69ed9899d8722c00110f1b86.jpeg@webp"
+        },
+        {
+          "type": "IMAGE",
+          "url": "https://images-foodtech.magnit.ru/DoBt3bzHqAQesWKuLZO0thxIOLzGfN9zW3Bj66RpOZc/rs:fit:416:416/plain/s3://img-dostavka/catalog/pim/goods/1000322391/image/1b26ba609ca061dc1e98c406036a85c4.jpeg@webp"
+        },
+        {
+          "type": "IMAGE",
+          "url": "https://images-foodtech.magnit.ru/5y0rOwl4BXsidD8EHiywIkoYhxbuLb0RU3t5LNFSLAc/rs:fit:416:416/plain/s3://img-dostavka/catalog/pim/goods/1000322391/image/98cbf57e9623151a9ac1820538ca9188.jpeg@webp"
+        },
+        {
+          "type": "IMAGE",
+          "url": "https://images-foodtech.magnit.ru/0_TBW_x6cJcnZWaA8XC3_omSNQmPkXW_sBAlb5ihVfY/rs:fit:416:416/plain/s3://img-dostavka/catalog/pim/goods/1000322391/image/48b8f0bfb83a835fa0a56c7d61cb9aa2.jpeg@webp"
+        },
+        {
+          "type": "IMAGE",
+          "url": "https://images-foodtech.magnit.ru/Ns0ZltceXK8ZO8y6-mldjZErR_JoKzRoJ9tQv2yoj_8/rs:fit:416:416/plain/s3://img-dostavka/catalog/pim/goods/1000322391/image/5eb029aae7d058da3b955df89085191e.jpeg@webp"
+        },
+        {
+          "type": "IMAGE",
+          "url": "https://images-foodtech.magnit.ru/rBVRw-7r32kUPy_lL1OBfRCp8B9WehoEIEagInAWVKc/rs:fit:416:416/plain/s3://img-dostavka/catalog/pim/goods/1000322391/image/e39b68cffab5836c6aead995488a3502.jpeg@webp"
+        }
+      ],
+      "id": "1000322391",
+      "isAdditionalActionRequired": false,
+      "isBiometryRequired": false,
+      "isForAdults": false,
+      "isInFavorites": null,
+      "isLowStock": null,
+      "name": "Смузи киви ананас манго яблоко банан со злаками и витаминами J7 300мл",
+      "needPassport": false,
+      "orderProperties": {
+        "minOrderQuantity": 1,
+        "orderStepQuantity": 1
+      },
+      "orders": null,
+      "pickupOnly": false,
+      "price": 9499,
+      "productId": "1000322391",
+      "promotion": {
+        "discountPercent": null,
+        "endDate": "2026-09-01T23:59:59Z",
+        "isPromotion": true,
+        "oldPrice": null
+      },
+      "quantity": 5,
+      "ratings": {
+        "commentsCount": 346,
+        "external": null,
+        "rating": 4.9,
+        "scoresCount": 3528
+      },
+      "seoCode": "kokteyl_j7_poleznyy_zavtrak_kivi_ananas_yabloko_banan_i_mango_300ml",
+      "service": "core_mm",
+      "skuGroupId": null,
+      "skuIds": null,
+      "storeCode": "320040",
+      "targetCart": "core_mm",
+      "weighted": {
+        "isWeighted": false,
+        "minStep": null,
+        "shelfLabel": null,
+        "shelfWeight": null,
+        "step": null,
+        "unitLabel": null,
+        "unitPrice": null
+      }
+    },
+    {
+      "badges": [],
+      "catalogType": "3",
+      "gallery": [
+        {
+          "type": "IMAGE",
+          "url": "https://images-foodtech.magnit.ru/2_2-Fh0cljfZqd7YyexNdWpzQU5RCXYgcnxiBViHHXY/rs:fit:416:416/plain/s3://img-dostavka/catalog/pim/goods/8000087762/image/3aeddf06ca573079fd8b9968bc0803c3.jpeg@webp"
+        },
+        {
+          "type": "IMAGE",
+          "url": "https://images-foodtech.magnit.ru/3E8Y7d221hrR5B4DlME70ER9bEL_Tn-BqL-xRjj5nKk/rs:fit:416:416/plain/s3://img-dostavka/catalog/pim/goods/8000087762/image/c8b53933955acc764509b237c45dae82.jpeg@webp"
+        },
+        {
+          "type": "IMAGE",
+          "url": "https://images-foodtech.magnit.ru/ysLGa4iGedNF-m8AzsdBH-8QtWMRnSPEhdkqpkvxo3M/rs:fit:416:416/plain/s3://img-dostavka/catalog/pim/goods/8000087762/image/5b01be5c268520bb4f67dea581824e18.jpeg@webp"
+        }
+      ],
+      "id": "8000087762",
+      "isAdditionalActionRequired": false,
+      "isBiometryRequired": false,
+      "isForAdults": false,
+      "isInFavorites": null,
+      "isLowStock": null,
+      "name": "Куриный оладушек со спагети 250г",
+      "needPassport": false,
+      "orderProperties": {
+        "minOrderQuantity": 1,
+        "orderStepQuantity": 1
+      },
+      "orders": null,
+      "pickupOnly": false,
+      "price": 14999,
+      "productId": "8000087762",
+      "promotion": {
+        "discountPercent": null,
+        "endDate": null,
+        "isPromotion": false,
+        "oldPrice": null
+      },
+      "quantity": 8,
+      "ratings": {
+        "commentsCount": 49,
+        "external": null,
+        "rating": 4.7,
+        "scoresCount": 519
+      },
+      "seoCode": "natur_buffet_kurinyy_olad_so_spaget_250g_lotok_doronichi",
+      "service": "core_mm",
+      "skuGroupId": null,
+      "skuIds": null,
+      "storeCode": "320040",
+      "targetCart": "core_mm",
+      "weighted": {
+        "isWeighted": false,
+        "minStep": null,
+        "shelfLabel": null,
+        "shelfWeight": null,
+        "step": null,
+        "unitLabel": null,
+        "unitPrice": null
+      }
+    },
+    {
+      "badges": [
+        {
+          "backgroundColor": "#FF5858",
+          "text": "Финальная цена",
+          "textColor": "#FFFFFF"
+        }
+      ],
+      "catalogType": "3",
+      "gallery": [
+        {
+          "type": "IMAGE",
+          "url": "https://images-foodtech.magnit.ru/zHIigyR66PVrobEZN2jhA67Amnraaq-2luxAb-9eCQk/rs:fit:416:416/plain/s3://img-dostavka/catalog/pim/goods/1000584946/image/aafd263d2f1c3e22dfaa7b4d532efa4d.jpeg@webp"
+        },
+        {
+          "type": "IMAGE",
+          "url": "https://images-foodtech.magnit.ru/OuTWsT28SIDU5JRFklbksmmkA80xoRLMBCUtlPQa-Xg/rs:fit:416:416/plain/s3://img-dostavka/catalog/pim/goods/1000584946/image/35a3a8e2ebe3bb0562e18143664b2846.jpeg@webp"
+        },
+        {
+          "type": "IMAGE",
+          "url": "https://images-foodtech.magnit.ru/olpZSi4AeVJvGVaXPRMU4yEpKXNdwk30FPWTjh9Eb0I/rs:fit:416:416/plain/s3://img-dostavka/catalog/pim/goods/1000584946/image/53d2dedfe9d43f8022f3ae7b69901ed1.jpeg@webp"
+        },
+        {
+          "type": "IMAGE",
+          "url": "https://images-foodtech.magnit.ru/ephm0P9M8gWYpNka5Asb4IxE26NrUiXGkz3doFplU_8/rs:fit:416:416/plain/s3://img-dostavka/catalog/pim/goods/1000584946/image/c96bdd044158673688510a555fe5c74b.jpeg@webp"
+        },
+        {
+          "type": "IMAGE",
+          "url": "https://images-foodtech.magnit.ru/OESXCHBGew949_Ih7e8qFNFt5Xlz-tYRlvQh3z9bmys/rs:fit:416:416/plain/s3://img-dostavka/catalog/pim/goods/1000584946/image/bfbdfc644a92ce5dd43b3966d0fd5c07.jpeg@webp"
+        },
+        {
+          "type": "IMAGE",
+          "url": "https://images-foodtech.magnit.ru/8EqjX_wKNU3cdi3z7lfVeKt5JyVIwKjzuZDkDwEp52g/rs:fit:416:416/plain/s3://img-dostavka/catalog/pim/goods/1000584946/image/7a942fee1bdf675e99ac807dbc1c847e.jpeg@webp"
+        }
+      ],
+      "id": "1000584946",
+      "isAdditionalActionRequired": false,
+      "isBiometryRequired": false,
+      "isForAdults": false,
+      "isInFavorites": null,
+      "isLowStock": null,
+      "name": "Смузи клубника-банан-яблоко со злаками и витаминами J7 300мл",
+      "needPassport": false,
+      "orderProperties": {
+        "minOrderQuantity": 1,
+        "orderStepQuantity": 1
+      },
+      "orders": null,
+      "pickupOnly": false,
+      "price": 9499,
+      "productId": "1000584946",
+      "promotion": {
+        "discountPercent": null,
+        "endDate": "2026-09-01T23:59:59Z",
+        "isPromotion": true,
+        "oldPrice": null
+      },
+      "quantity": 5,
+      "ratings": {
+        "commentsCount": 100,
+        "external": null,
+        "rating": 4.9,
+        "scoresCount": 1007
+      },
+      "seoCode": "j7_smuzi_so_zlakami_vitamin_klub_banan_yabloko_0_3l_pl_but",
+      "service": "core_mm",
+      "skuGroupId": null,
+      "skuIds": null,
+      "storeCode": "320040",
+      "targetCart": "core_mm",
+      "weighted": {
+        "isWeighted": false,
+        "minStep": null,
+        "shelfLabel": null,
+        "shelfWeight": null,
+        "step": null,
+        "unitLabel": null,
+        "unitPrice": null
+      }
+    },
+    {
+      "badges": [],
+      "catalogType": "3",
+      "gallery": [
+        {
+          "type": "IMAGE",
+          "url": "https://images-foodtech.magnit.ru/cNYpx-NCujtndnuxLJd43JQt2XbQNZ1yzTS-0-teVGE/rs:fit:416:416/plain/s3://img-dostavka/catalog/uf/13f/13f6136164578da75c4c02e6c4365417/94d5daa7a0ba8df3248c75a79835578c.jpeg@webp"
+        }
+      ],
+      "id": "1000397249",
+      "isAdditionalActionRequired": false,
+      "isBiometryRequired": false,
+      "isForAdults": false,
+      "isInFavorites": null,
+      "isLowStock": null,
+      "name": "Кофе Капучино большой зерновой 300мл",
+      "needPassport": false,
+      "orderProperties": {
+        "minOrderQuantity": 1,
+        "orderStepQuantity": 1
+      },
+      "orders": null,
+      "pickupOnly": false,
+      "price": 9999,
+      "productId": "1000397249",
+      "promotion": {
+        "discountPercent": null,
+        "endDate": null,
+        "isPromotion": false,
+        "oldPrice": null
+      },
+      "quantity": 130,
+      "ratings": {
+        "commentsCount": 1037,
+        "external": null,
+        "rating": 4.9,
+        "scoresCount": 9602
+      },
+      "seoCode": "kofe_kapuchino_bolshoy_zernovoy_gotovyy_270ml",
+      "service": "core_mm",
+      "skuGroupId": null,
+      "skuIds": null,
+      "storeCode": "320040",
+      "targetCart": "core_mm",
+      "weighted": {
+        "isWeighted": false,
+        "minStep": null,
+        "shelfLabel": null,
+        "shelfWeight": null,
+        "step": null,
+        "unitLabel": null,
+        "unitPrice": null
+      }
+    },
+    {
+      "badges": [
+        {
+          "backgroundColor": "#ECF8DE",
+          "text": "Только у нас",
+          "textColor": "#3B5803"
+        }
+      ],
+      "catalogType": "3",
+      "gallery": [
+        {
+          "type": "IMAGE",
+          "url": "https://images-foodtech.magnit.ru/lHlMooo9vErXntkQkDY3Uc_ckpTL4mcv0JAJHlBC43I/rs:fit:416:416/plain/s3://img-dostavka/catalog/pim/goods/8000043552/image/28586571bed23909e65c6e2d5801b3ca.jpeg@webp"
+        },
+        {
+          "type": "IMAGE",
+          "url": "https://images-foodtech.magnit.ru/umy4AQ1EdyVTtlNqOVfdXN3lErxdRcGvIhaWmE60O4E/rs:fit:416:416/plain/s3://img-dostavka/catalog/pim/goods/8000043552/image/4978e8fddd9d1882f52d4b089872f67d.jpeg@webp"
+        }
+      ],
+      "id": "8000043552",
+      "isAdditionalActionRequired": false,
+      "isBiometryRequired": false,
+      "isForAdults": false,
+      "isInFavorites": null,
+      "isLowStock": null,
+      "name": "Смузи груша шпинат и мята М Кухня 300мл",
+      "needPassport": false,
+      "orderProperties": {
+        "minOrderQuantity": 1,
+        "orderStepQuantity": 1
+      },
+      "orders": null,
+      "pickupOnly": false,
+      "price": 12999,
+      "productId": "8000043552",
+      "promotion": {
+        "discountPercent": null,
+        "endDate": null,
+        "isPromotion": false,
+        "oldPrice": null
+      },
+      "quantity": 2,
+      "ratings": {
+        "commentsCount": 189,
+        "external": null,
+        "rating": 4.8,
+        "scoresCount": 1144
+      },
+      "seoCode": "m_kukhnya_smuzi_grusha_shpin_myata_0_3l_pl_but_konditer_servis",
+      "service": "core_mm",
+      "skuGroupId": null,
+      "skuIds": null,
+      "storeCode": "320040",
+      "targetCart": "core_mm",
+      "weighted": {
+        "isWeighted": false,
+        "minStep": null,
+        "shelfLabel": null,
+        "shelfWeight": null,
+        "step": null,
+        "unitLabel": null,
+        "unitPrice": null
+      }
+    },
+    {
+      "badges": [],
+      "catalogType": "3",
+      "gallery": [
+        {
+          "type": "IMAGE",
+          "url": "https://images-foodtech.magnit.ru/E_GxU-NMxoVICrNoOSFS6mQZ15WUaqVk6g1cN5aydnA/rs:fit:416:416/plain/s3://img-dostavka/catalog/pim/goods/1000498736/image/7c3dadd6aa3fddb8d9f4055cf6682b03.jpeg@webp"
+        },
+        {
+          "type": "IMAGE",
+          "url": "https://images-foodtech.magnit.ru/AGe2EDLXEX-DESUsNT3AWy4qQGHx1NC3i9IFDJTZ5-k/rs:fit:416:416/plain/s3://img-dostavka/catalog/pim/goods/1000498736/image/95ca985f9139dcd63affebbd2b306e54.jpeg@webp"
+        },
+        {
+          "type": "IMAGE",
+          "url": "https://images-foodtech.magnit.ru/ib78Ey_PyT4jxLXB0grBeEavt2yI_alnK6SG9_rOfYE/rs:fit:416:416/plain/s3://img-dostavka/catalog/pim/goods/1000498736/image/d83dd0b4d37004027eb4d84d52714762.jpeg@webp"
+        }
+      ],
+      "id": "1000498736",
+      "isAdditionalActionRequired": false,
+      "isBiometryRequired": false,
+      "isForAdults": false,
+      "isInFavorites": null,
+      "isLowStock": null,
+      "name": "Блины с ветчиной и сыром 360г",
+      "needPassport": false,
+      "orderProperties": {
+        "minOrderQuantity": 1,
+        "orderStepQuantity": 1
+      },
+      "orders": null,
+      "pickupOnly": false,
+      "price": 19999,
+      "productId": "1000498736",
+      "promotion": {
+        "discountPercent": null,
+        "endDate": null,
+        "isPromotion": false,
+        "oldPrice": null
+      },
+      "quantity": 4,
+      "ratings": {
+        "commentsCount": 160,
+        "external": null,
+        "rating": 4.5,
+        "scoresCount": 780
+      },
+      "seoCode": "natur_bufet_bliny_s_vetchinoy_i_syrom_360g_lotok",
+      "service": "core_mm",
+      "skuGroupId": null,
+      "skuIds": null,
+      "storeCode": "320040",
+      "targetCart": "core_mm",
+      "weighted": {
+        "isWeighted": false,
+        "minStep": null,
+        "shelfLabel": null,
+        "shelfWeight": null,
+        "step": null,
+        "unitLabel": null,
+        "unitPrice": null
+      }
+    },
+    {
+      "badges": [
+        {
+          "backgroundColor": "#ECF8DE",
+          "text": "Только у нас",
+          "textColor": "#3B5803"
+        }
+      ],
+      "catalogType": "3",
+      "gallery": [
+        {
+          "type": "IMAGE",
+          "url": "https://images-foodtech.magnit.ru/vlkIGLKCZGq5GSqofZ5KdQ_ms1co_psjPn6v-BUf5c8/rs:fit:416:416/plain/s3://img-dostavka/catalog/pim/goods/1000577879/image/7126ca1ea5b244b79925c8fdf7090eea.jpeg@webp"
+        },
+        {
+          "type": "IMAGE",
+          "url": "https://images-foodtech.magnit.ru/SPq01bA7Lc_nZ0d8CEklhdFat31HwmIEvj1q9t9iBLk/rs:fit:416:416/plain/s3://img-dostavka/catalog/pim/goods/1000577879/image/26b9c9f9a2781716092421c81de82700.jpeg@webp"
+        },
+        {
+          "type": "IMAGE",
+          "url": "https://images-foodtech.magnit.ru/3QmnMOdJgvB5Mjw-SVlmWoIkcJT-rS0ikH9-ReROYxU/rs:fit:416:416/plain/s3://img-dostavka/catalog/pim/goods/1000577879/image/00925e2263a936835f0db07ccd2bbe82.jpeg@webp"
+        }
+      ],
+      "id": "1000577879",
+      "isAdditionalActionRequired": false,
+      "isBiometryRequired": false,
+      "isForAdults": false,
+      "isInFavorites": null,
+      "isLowStock": null,
+      "name": "Смузи банан и манго М Кухня 300мл",
+      "needPassport": false,
+      "orderProperties": {
+        "minOrderQuantity": 1,
+        "orderStepQuantity": 1
+      },
+      "orders": null,
+      "pickupOnly": false,
+      "price": 11999,
+      "productId": "1000577879",
+      "promotion": {
+        "discountPercent": null,
+        "endDate": null,
+        "isPromotion": false,
+        "oldPrice": null
+      },
+      "quantity": 2,
+      "ratings": {
+        "commentsCount": 108,
+        "external": null,
+        "rating": 4.8,
+        "scoresCount": 811
+      },
+      "seoCode": "smuzi_banan_mango_0_3l_pl_but",
+      "service": "core_mm",
+      "skuGroupId": null,
+      "skuIds": null,
+      "storeCode": "320040",
+      "targetCart": "core_mm",
+      "weighted": {
+        "isWeighted": false,
+        "minStep": null,
+        "shelfLabel": null,
+        "shelfWeight": null,
+        "step": null,
+        "unitLabel": null,
+        "unitPrice": null
+      }
+    },
+    {
+      "badges": [],
+      "catalogType": "3",
+      "gallery": [
+        {
+          "type": "IMAGE",
+          "url": "https://images-foodtech.magnit.ru/spX5HLJqEDbd_OyomzEEowtfYJf8Yr3630ln8cYmBfg/rs:fit:416:416/plain/s3://img-dostavka/catalog/pim/goods/1000394738/image/381676b174ab366132beafe7b84d6adc.jpeg@webp"
+        },
+        {
+          "type": "IMAGE",
+          "url": "https://images-foodtech.magnit.ru/eiXwKl9dfBGi84VcNBtCXUNsqVoKQkgIQoMTSfBUDSM/rs:fit:416:416/plain/s3://img-dostavka/catalog/pim/goods/1000394738/image/bf5cd6383e02c47f441c744f647ecbd7.jpeg@webp"
+        },
+        {
+          "type": "IMAGE",
+          "url": "https://images-foodtech.magnit.ru/55ffymjvSYZtiG1u3X8gH9H3yyqtCn5EmLnM7Pj3Uw0/rs:fit:416:416/plain/s3://img-dostavka/catalog/pim/goods/1000394738/image/58444dbc656d7ee90d34319c69369b3b.jpeg@webp"
+        }
+      ],
+      "id": "1000394738",
+      "isAdditionalActionRequired": false,
+      "isBiometryRequired": false,
+      "isForAdults": false,
+      "isInFavorites": null,
+      "isLowStock": null,
+      "name": "Блины с мясом 180г",
+      "needPassport": false,
+      "orderProperties": {
+        "minOrderQuantity": 1,
+        "orderStepQuantity": 1
+      },
+      "orders": null,
+      "pickupOnly": false,
+      "price": 8199,
+      "productId": "1000394738",
+      "promotion": {
+        "discountPercent": 28,
+        "endDate": "2026-08-16T23:59:59Z",
+        "isPromotion": true,
+        "oldPrice": 11399
+      },
+      "quantity": 5,
+      "ratings": {
+        "commentsCount": 54,
+        "external": null,
+        "rating": 4.5,
+        "scoresCount": 484
+      },
+      "seoCode": "natur_bufet_zavtrak_bliny_s_myasom_180g_lotok",
+      "service": "core_mm",
+      "skuGroupId": null,
+      "skuIds": null,
+      "storeCode": "320040",
+      "targetCart": "core_mm",
+      "weighted": {
+        "isWeighted": false,
+        "minStep": null,
+        "shelfLabel": null,
+        "shelfWeight": null,
+        "step": null,
+        "unitLabel": null,
+        "unitPrice": null
+      }
+    },
+    {
+      "badges": [
+        {
+          "backgroundColor": "#ECF8DE",
+          "text": "Только у нас",
+          "textColor": "#3B5803"
+        }
+      ],
+      "catalogType": "3",
+      "gallery": [
+        {
+          "type": "IMAGE",
+          "url": "https://images-foodtech.magnit.ru/v6giKgUz5L8TsBlKrPPPE6Y3IUR8dvqHUliBjOSWEvw/rs:fit:416:416/plain/s3://img-dostavka/catalog/pim/goods/1000577878/image/fe63b92a115c2c3da152d35d9dd8e321.jpeg@webp"
+        },
+        {
+          "type": "IMAGE",
+          "url": "https://images-foodtech.magnit.ru/CcVqO8cElzX99FGQFiSrcp8l3Dak2Ic-8UKw_WoT7LA/rs:fit:416:416/plain/s3://img-dostavka/catalog/pim/goods/1000577878/image/32da39041e692a918bc5d7f36335fdb4.jpeg@webp"
+        }
+      ],
+      "id": "1000577878",
+      "isAdditionalActionRequired": false,
+      "isBiometryRequired": false,
+      "isForAdults": false,
+      "isInFavorites": null,
+      "isLowStock": null,
+      "name": "Морс клубника вишня и смородина М Кухня 500мл",
+      "needPassport": false,
+      "orderProperties": {
+        "minOrderQuantity": 1,
+        "orderStepQuantity": 1
+      },
+      "orders": null,
+      "pickupOnly": false,
+      "price": 9999,
+      "productId": "1000577878",
+      "promotion": {
+        "discountPercent": null,
+        "endDate": null,
+        "isPromotion": false,
+        "oldPrice": null
+      },
+      "quantity": 4,
+      "ratings": {
+        "commentsCount": 97,
+        "external": null,
+        "rating": 4.7,
+        "scoresCount": 706
+      },
+      "seoCode": "mors_iz_klubniki_vishni_chern_smorod_0_5l",
+      "service": "core_mm",
+      "skuGroupId": null,
+      "skuIds": null,
+      "storeCode": "320040",
+      "targetCart": "core_mm",
+      "weighted": {
+        "isWeighted": false,
+        "minStep": null,
+        "shelfLabel": null,
+        "shelfWeight": null,
+        "step": null,
+        "unitLabel": null,
+        "unitPrice": null
+      }
+    },
+    {
+      "badges": [
+        {
+          "backgroundColor": "#ECF8DE",
+          "text": "Только у нас",
+          "textColor": "#3B5803"
+        }
+      ],
+      "catalogType": "3",
+      "gallery": [
+        {
+          "type": "IMAGE",
+          "url": "https://images-foodtech.magnit.ru/rHZBKRcSylvQab0OJLqkRkZbVNirv9bsmAWuEt461Fc/rs:fit:416:416/plain/s3://img-dostavka/catalog/pim/goods/1000578423/image/273cbe77d0737835444f18f30b79dc25.jpeg@webp"
+        },
+        {
+          "type": "IMAGE",
+          "url": "https://images-foodtech.magnit.ru/sNMikjxuUGoNsxem_FCx38zKnHYWp1N3NNeHFi9BgXE/rs:fit:416:416/plain/s3://img-dostavka/catalog/pim/goods/1000578423/image/dd2af11fb06a1dcdef495924970dcf54.jpeg@webp"
+        }
+      ],
+      "id": "1000578423",
+      "isAdditionalActionRequired": false,
+      "isBiometryRequired": false,
+      "isForAdults": false,
+      "isInFavorites": null,
+      "isLowStock": null,
+      "name": "Морс облепиховый М Кухня 500мл",
+      "needPassport": false,
+      "orderProperties": {
+        "minOrderQuantity": 1,
+        "orderStepQuantity": 1
+      },
+      "orders": null,
+      "pickupOnly": false,
+      "price": 9999,
+      "productId": "1000578423",
+      "promotion": {
+        "discountPercent": null,
+        "endDate": null,
+        "isPromotion": false,
+        "oldPrice": null
+      },
+      "quantity": 3,
+      "ratings": {
+        "commentsCount": 218,
+        "external": null,
+        "rating": 4.9,
+        "scoresCount": 1267
+      },
+      "seoCode": "mors_oblepikhov_0_5l_konditer_servis",
+      "service": "core_mm",
+      "skuGroupId": null,
+      "skuIds": null,
+      "storeCode": "320040",
+      "targetCart": "core_mm",
+      "weighted": {
+        "isWeighted": false,
+        "minStep": null,
+        "shelfLabel": null,
+        "shelfWeight": null,
+        "step": null,
+        "unitLabel": null,
+        "unitPrice": null
+      }
+    },
+    {
+      "badges": [],
+      "catalogType": "3",
+      "gallery": [
+        {
+          "type": "IMAGE",
+          "url": "https://images-foodtech.magnit.ru/M6qV2p4QD-dm_NE0s_cA2pvCfmy5cHIVs47igLgEoRA/rs:fit:416:416/plain/s3://img-dostavka/catalog/uf/2bb/2bb2357acbc3826a1274b2a7a289a27a/c59ca85476efe4caa250cdc09a57cda6.jpeg@webp"
+        }
+      ],
+      "id": "1000397250",
+      "isAdditionalActionRequired": false,
+      "isBiometryRequired": false,
+      "isForAdults": false,
+      "isInFavorites": null,
+      "isLowStock": null,
+      "name": "Кофе Латте зерновой 300мл",
+      "needPassport": false,
+      "orderProperties": {
+        "minOrderQuantity": 1,
+        "orderStepQuantity": 1
+      },
+      "orders": null,
+      "pickupOnly": false,
+      "price": 9999,
+      "productId": "1000397250",
+      "promotion": {
+        "discountPercent": null,
+        "endDate": null,
+        "isPromotion": false,
+        "oldPrice": null
+      },
+      "quantity": 106,
+      "ratings": {
+        "commentsCount": 952,
+        "external": null,
+        "rating": 4.8,
+        "scoresCount": 9744
+      },
+      "seoCode": "kofe_latte_zernovoy_gotovyy_330ml",
+      "service": "core_mm",
+      "skuGroupId": null,
+      "skuIds": null,
+      "storeCode": "320040",
+      "targetCart": "core_mm",
+      "weighted": {
+        "isWeighted": false,
+        "minStep": null,
+        "shelfLabel": null,
+        "shelfWeight": null,
+        "step": null,
+        "unitLabel": null,
+        "unitPrice": null
+      }
+    },
+    {
+      "badges": [],
+      "catalogType": "3",
+      "gallery": [
+        {
+          "type": "IMAGE",
+          "url": "https://images-foodtech.magnit.ru/EW_Q7_BX-ZT7FbepyYYK9HFRblgfQzezNCfTs7JMBC0/rs:fit:416:416/plain/s3://img-dostavka/catalog/uf/4bc/4bc6e70aa33a0eddc2ab06ba07f63412/06dd0fd9203e6d20aff34b3f65533b2a.jpeg@webp"
+        }
+      ],
+      "id": "1000397248",
+      "isAdditionalActionRequired": false,
+      "isBiometryRequired": false,
+      "isForAdults": false,
+      "isInFavorites": null,
+      "isLowStock": null,
+      "name": "Кофе Флэт Уайт зерновой 300мл",
+      "needPassport": false,
+      "orderProperties": {
+        "minOrderQuantity": 1,
+        "orderStepQuantity": 1
+      },
+      "orders": null,
+      "pickupOnly": false,
+      "price": 9999,
+      "productId": "1000397248",
+      "promotion": {
+        "discountPercent": null,
+        "endDate": null,
+        "isPromotion": false,
+        "oldPrice": null
+      },
+      "quantity": 191,
+      "ratings": {
+        "commentsCount": 614,
+        "external": null,
+        "rating": 5,
+        "scoresCount": 5672
+      },
+      "seoCode": "kofe_flet_uayt_zernovoy_gotovyy_200ml",
+      "service": "core_mm",
+      "skuGroupId": null,
+      "skuIds": null,
+      "storeCode": "320040",
+      "targetCart": "core_mm",
+      "weighted": {
+        "isWeighted": false,
+        "minStep": null,
+        "shelfLabel": null,
+        "shelfWeight": null,
+        "step": null,
+        "unitLabel": null,
+        "unitPrice": null
+      }
+    },
+    {
+      "badges": [],
+      "catalogType": "3",
+      "gallery": [
+        {
+          "type": "IMAGE",
+          "url": "https://images-foodtech.magnit.ru/VgQEBdytZKOognN0XAWt5cCENZaOXZIczTaOgtIEqO4/rs:fit:416:416/plain/s3://img-dostavka/catalog/uf/ea9/ea96de9ecaf534af40e80dbd1d71f2aa/282722658281544b75587496567ef03c.jpeg@webp"
+        }
+      ],
+      "id": "1000397245",
+      "isAdditionalActionRequired": false,
+      "isBiometryRequired": false,
+      "isForAdults": false,
+      "isInFavorites": null,
+      "isLowStock": null,
+      "name": "Кофе Американо зерновой 230мл",
+      "needPassport": false,
+      "orderProperties": {
+        "minOrderQuantity": 1,
+        "orderStepQuantity": 1
+      },
+      "orders": null,
+      "pickupOnly": false,
+      "price": 4999,
+      "productId": "1000397245",
+      "promotion": {
+        "discountPercent": null,
+        "endDate": null,
+        "isPromotion": false,
+        "oldPrice": null
+      },
+      "quantity": 598,
+      "ratings": {
+        "commentsCount": 662,
+        "external": null,
+        "rating": 4.9,
+        "scoresCount": 7665
+      },
+      "seoCode": "kofe_amerikano_bolshoy_zernovoy_gotovyy_230ml",
+      "service": "core_mm",
+      "skuGroupId": null,
+      "skuIds": null,
+      "storeCode": "320040",
+      "targetCart": "core_mm",
+      "weighted": {
+        "isWeighted": false,
+        "minStep": null,
+        "shelfLabel": null,
+        "shelfWeight": null,
+        "step": null,
+        "unitLabel": null,
+        "unitPrice": null
+      }
+    },
+    {
+      "badges": [],
+      "catalogType": "3",
+      "gallery": [
+        {
+          "type": "IMAGE",
+          "url": "https://images-foodtech.magnit.ru/_Kje9wBIkB6oY9xbrbgZPsBq50c2cgYTa6YNsiy2Q7I/rs:fit:416:416/plain/s3://img-dostavka/catalog/uf/2a9/2a99d55dd98fe24d2861a0ef0cb88a17/d8ee60a2b187c57e5a8d9da450efc7ce.jpeg@webp"
+        }
+      ],
+      "id": "1000397246",
+      "isAdditionalActionRequired": false,
+      "isBiometryRequired": false,
+      "isForAdults": false,
+      "isInFavorites": null,
+      "isLowStock": null,
+      "name": "Кофе Американо Гранд зерновой 320мл",
+      "needPassport": false,
+      "orderProperties": {
+        "minOrderQuantity": 1,
+        "orderStepQuantity": 1
+      },
+      "orders": null,
+      "pickupOnly": false,
+      "price": 7999,
+      "productId": "1000397246",
+      "promotion": {
+        "discountPercent": null,
+        "endDate": null,
+        "isPromotion": false,
+        "oldPrice": null
+      },
+      "quantity": 490,
+      "ratings": {
+        "commentsCount": 219,
+        "external": null,
+        "rating": 4.8,
+        "scoresCount": 2149
+      },
+      "seoCode": "kofe_amerikano_grand_zernovoy_gotovyy_320ml",
+      "service": "core_mm",
+      "skuGroupId": null,
+      "skuIds": null,
+      "storeCode": "320040",
+      "targetCart": "core_mm",
+      "weighted": {
+        "isWeighted": false,
+        "minStep": null,
+        "shelfLabel": null,
+        "shelfWeight": null,
+        "step": null,
+        "unitLabel": null,
+        "unitPrice": null
+      }
+    },
+    {
+      "badges": [],
+      "catalogType": "3",
+      "gallery": [
+        {
+          "type": "IMAGE",
+          "url": "https://images-foodtech.magnit.ru/RA3XWDMgKB5KNeAYgTnUjjuvZt66VQr4xzslwp_avek/rs:fit:416:416/plain/s3://img-dostavka/catalog/uf/12e/12ed936cf395e65ba6f827dd6a68f746/4ac90ede2d6ae94d585d7f3b3a1f8485.jpeg@webp"
+        }
+      ],
+      "id": "1000397251",
+      "isAdditionalActionRequired": false,
+      "isBiometryRequired": false,
+      "isForAdults": false,
+      "isInFavorites": null,
+      "isLowStock": null,
+      "name": "Кофе с молоком 300мл",
+      "needPassport": false,
+      "orderProperties": {
+        "minOrderQuantity": 1,
+        "orderStepQuantity": 1
+      },
+      "orders": null,
+      "pickupOnly": false,
+      "price": 9999,
+      "productId": "1000397251",
+      "promotion": {
+        "discountPercent": null,
+        "endDate": null,
+        "isPromotion": false,
+        "oldPrice": null
+      },
+      "quantity": 133,
+      "ratings": {
+        "commentsCount": 279,
+        "external": null,
+        "rating": 4.8,
+        "scoresCount": 2921
+      },
+      "seoCode": "kofe_s_molokom_300ml",
+      "service": "core_mm",
+      "skuGroupId": null,
+      "skuIds": null,
+      "storeCode": "320040",
+      "targetCart": "core_mm",
+      "weighted": {
+        "isWeighted": false,
+        "minStep": null,
+        "shelfLabel": null,
+        "shelfWeight": null,
+        "step": null,
+        "unitLabel": null,
+        "unitPrice": null
+      }
+    },
+    {
+      "badges": [],
+      "catalogType": "3",
+      "gallery": [
+        {
+          "type": "IMAGE",
+          "url": "https://images-foodtech.magnit.ru/l0hYwakbR4JmedsqUxIDgXvGNkJPhx1nVewf7IZbZSI/rs:fit:416:416/plain/s3://img-dostavka/catalog/uf/dcc/dcc0ebaf61d967233a19a855e03134ab/7c778ea00ca1a276d90ba04799b31a09.jpeg@webp"
+        }
+      ],
+      "id": "1000397247",
+      "isAdditionalActionRequired": false,
+      "isBiometryRequired": false,
+      "isForAdults": false,
+      "isInFavorites": null,
+      "isLowStock": null,
+      "name": "Кофе Двойной Эспрессо зерновой 100мл",
+      "needPassport": false,
+      "orderProperties": {
+        "minOrderQuantity": 1,
+        "orderStepQuantity": 1
+      },
+      "orders": null,
+      "pickupOnly": false,
+      "price": 7999,
+      "productId": "1000397247",
+      "promotion": {
+        "discountPercent": null,
+        "endDate": null,
+        "isPromotion": false,
+        "oldPrice": null
+      },
+      "quantity": 526,
+      "ratings": {
+        "commentsCount": 97,
+        "external": null,
+        "rating": 4.8,
+        "scoresCount": 1116
+      },
+      "seoCode": "kofe_dvoynoy_espresso_zernovoy_gotovyy_100ml",
+      "service": "core_mm",
+      "skuGroupId": null,
+      "skuIds": null,
+      "storeCode": "320040",
+      "targetCart": "core_mm",
+      "weighted": {
+        "isWeighted": false,
+        "minStep": null,
+        "shelfLabel": null,
+        "shelfWeight": null,
+        "step": null,
+        "unitLabel": null,
+        "unitPrice": null
+      }
+    }
+  ],
+  "offerCategoryIds": null,
+  "pagination": {
+    "hasMore": false,
+    "limit": 32,
+    "nextOffset": null,
+    "offset": 0,
+    "totalCount": 16
+  },
+  "resultId": "54b06ef0-6d89-49ae-b5c2-7e9bd098d4fd",
+  "term": null,
+  "videoDelay": 300
+}

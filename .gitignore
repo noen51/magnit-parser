@@ -1,0 +1,25 @@
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Browser profiles / local auth data
+browser_profile_yandex/
+browser_profiles/
+
+# Parser output
+results/
+
+# Logs and diagnostics
+app_error.txt
+network_debug.jsonl
+install_log.txt
+install_log*.txt
+diagnostics.txt
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
